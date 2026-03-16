@@ -95,6 +95,30 @@
 </tr>
 </table>
 
+### 🧪 实测免杀效果
+
+> 以下为 `beacon_windows_amd64.exe` 在主流云沙箱的检测结果（2026-03-16）
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="docs/screenshots/sandbox-weibu.png" width="100%" /><br/>
+<b>微步云沙箱</b><br/>
+引擎检出：<b>0 / 28</b>
+</td>
+<td align="center" width="33%">
+<img src="docs/screenshots/sandbox-360.png" width="100%" /><br/>
+<b>360 云沙箱</b><br/>
+威胁评分：<b>0.1</b> · 未发现威胁
+</td>
+<td align="center" width="33%">
+<img src="docs/screenshots/sandbox-qianxin.png" width="100%" /><br/>
+<b>奇安信云沙箱</b><br/>
+恶意评分：<b>3</b> · 未发现风险
+</td>
+</tr>
+</table>
+
 ### 🎯 丰富的 Implant 能力
 
 ```
