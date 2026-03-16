@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🐚 CyberShell
+<img src="docs/logo.png" width="180" />
+
+# CyberShell
 
 ### 新一代红队指挥控制平台
 
