@@ -1,0 +1,11 @@
+# === CyberShell GitHub Showcase ===
+# 忽略所有文件，仅白名单展示文件
+
+*
+
+# 白名单：展示文件
+!.gitignore
+!README.md
+!LICENSE
+!docs/
+!docs/**
