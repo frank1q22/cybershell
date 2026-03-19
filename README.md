@@ -130,7 +130,12 @@
 <b>360 安全卫士</b><br/>
 木马查杀：<b>安全威胁 0</b>
 </td>
-<td align="center" colspan="3">
+<td align="center" width="25%">
+<img src="docs/screenshots/edr-tianqing.png" width="100%" /><br/>
+<b>奇安信天擎 EDR</b><br/>
+病毒查杀：<b>未发现风险</b>
+</td>
+<td align="center" colspan="2">
 <i>持续更新中，更多杀软实测即将加入...</i>
 </td>
 </tr>
